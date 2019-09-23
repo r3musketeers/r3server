@@ -14,5 +14,5 @@ raas/r3server/smr/delivery/BFTDelivery.class
 raas/r3server/smr/delivery/DeliveryFactory.class
 raas/r3server/smr/delivery/CommandListener.class
 raas/r3server/smr/delivery/SDelivery.class
-raas/r3server/smr/delivery/SPaxosProtocol.class
 raas/r3server/config/ConfigManager.class
+raas/r3server/smr/delivery/SPaxosProtocol.class

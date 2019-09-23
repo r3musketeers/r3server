@@ -59,7 +59,7 @@ public class SmrManager implements CommandListener {
             delivery.configure();
 
             //PARA O EXPERIMENTO
-            Path p = Paths.get("/local/genericrsm/KeyValueService.jar");
+            Path p = Paths.get("services/KeyValueService.jar");
             //Path p = Paths.get("/home/paola/Documents/tcc/genericrsm/KeyValueService.jar");
 
             byte[] content = Files.readAllBytes(p);
