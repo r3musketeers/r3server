@@ -59,7 +59,7 @@ public class SmrManager implements CommandListener {
             delivery.configure();
 
             //PARA O EXPERIMENTO
-            Path p = Paths.get("/local/genericrsm/KeyValueService.jar");
+            Path p = Paths.get("services/KeyValueService.jar");
             //Path p = Paths.get("/home/paola/Documents/tcc/genericrsm/KeyValueService.jar");
 
             byte[] content = Files.readAllBytes(p);
@@ -157,7 +157,7 @@ public class SmrManager implements CommandListener {
         if (this.smrLibraries.containsKey(id)) {
             throw new Exception("Id já existente");
         }
-        String name = "./services_jars/" + replica + "/" + id + ".jar";
+        String name = "services/replicas/" + id + ".jar";
         File f = new File(name);
         f.createNewFile();
         Files.write(f.toPath(), content);
