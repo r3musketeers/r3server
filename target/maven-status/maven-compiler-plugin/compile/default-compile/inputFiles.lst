@@ -1,5 +1,4 @@
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/smr/delivery/SDelivery.java
-/home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/R3LibServer.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/model/SmrClass.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/loader/SmrLoader.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/model/SmrApplication.java
@@ -8,6 +7,7 @@
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/loader/CustomObjectInputStream.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/smr/SmrManager.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/smr/delivery/BFTDelivery.java
+/home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/R3Server.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/smr/delivery/CommandListener.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/model/SmrLibrary.java
 /home/renan/Workspace/r3-ws/r3-server/src/main/java/raas/r3server/performance/control/ThroughputController.java
